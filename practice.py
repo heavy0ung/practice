@@ -17,3 +17,6 @@ for i in range(h):
     for j in range(w):
         print(board[i][j],end=' ')
     print()
+
+# 추가한 new version
+print('hello world')
